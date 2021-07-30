@@ -95,8 +95,7 @@ const InputForm = (props) =>{
       };
       cartCtx.addMeal(MealsData);
       props.onClose();
-    }
-    
+    }  
   }
 
     return(
